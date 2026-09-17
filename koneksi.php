@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
+$host = 'if0_42937086_laporan';
 $dbname = 'db_laporan'; 
 $user = 'root';
-$pass = '#Sariater@2026'; // Password bawaan Laragon adalah kosong
+$pass = '4IqrbCBko7B'; // Password bawaan Laragon adalah kosong
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
