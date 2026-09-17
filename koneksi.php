@@ -1,7 +1,7 @@
 <?php
 $host = 'if0_42937086_laporan';
-$dbname = 'db_laporan'; 
-$user = 'root';
+$dbname = 'if0_42937086_laporan'; 
+$user = 'if0_42937086';
 $pass = '4IqrbCBko7B'; // Password bawaan Laragon adalah kosong
 
 try {
